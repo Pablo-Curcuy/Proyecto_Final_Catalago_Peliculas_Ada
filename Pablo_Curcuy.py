@@ -1,5 +1,4 @@
-# nombre-apellido.py
-from catalogo import Pelicula, CatalogoPeliculas
+from Catalogo import Pelicula, CatalogoPeliculas
 
 def main():
     print("Bienvenido al Catálogo de Películas")
